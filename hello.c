@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-  printf("hello word!!");
+  int a=4;
+  printf("hello word!!,%d",a);
 }
